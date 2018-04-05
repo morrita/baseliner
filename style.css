@@ -1,0 +1,19 @@
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+#wrapper {
+    background-color: black
+}
+
+.footer_navigation {
+    background-color: blue
+}
+
+.header {
+    background-color: rebeccapurple
+}
